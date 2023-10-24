@@ -8,5 +8,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alizadeh)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11393891)
+[![LinkedIn](https://img.shields.io/badge/-Ali%20Alizadeh-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alizadeh)
+[![](https://img.shields.io/badge/-alizadeh.ali.e@gmail.com-black?style=flat&logo=maildotru&logoColor=white)](mailto:alizadeh.ali.e@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11393891)
